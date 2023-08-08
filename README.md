@@ -1,2 +1,2 @@
 # Data_Structures
-# Data Structure Implementation in [C++]
+# Data Structure Implementation in [C Language]
